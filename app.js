@@ -20,6 +20,7 @@ const printWrongQuestion = () => {
   console.log("Pertanyaan tidak sesuai");
   readline.close();
 };
+
 let tempAnsQ3 = "";
 const promptQuestion = (q) => {
   readline.question(q, (ans) => {
