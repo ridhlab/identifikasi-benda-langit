@@ -11,7 +11,7 @@ Mini project about expert system to identify sky object using Forward Chaining.
 - Make sure NodeJS have been installed on your device. If not installed, download [NodeJS](https://www.nodejs.org) here!.
 - Clone this repository on your device
 ```shell
-git clone https://github.com/ridlwan17/identifikasi-benda-langit # clone the repo
+git clone https://github.com/ridlwan17/identifikasi-benda-langit.git # clone the repo
 cd identifikasi-benda-langit # cd into the repo
 ```
 - Launch the app by type 
